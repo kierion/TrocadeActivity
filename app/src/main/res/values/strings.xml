@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Troca de Activity</string>
+    <string name="botao">Enviar P/ outra Activity</string>
+    <string name="botao_apagar">Apagar Texto</string>
+</resources>
